@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on Problem Solving Skills.
 - 🌱 I’m currently learning Github features.
-- 🤔 I’m looking for help with Login building up skill.
+- 🤔 I’m looking for help with Logic building up skill.
 
 ## ⚡ Fun fact:
 
