@@ -3,7 +3,7 @@
 **some1zealeous/some1zealeous** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 - 📈 I'm currently working on expertising Problem Solving Power.
-- 🗡️ Crystallizing Fuzzy Logic Skills.                      <img src="https://github.com/some1zealeous/some1zealeous/blob/main/assets/pikachu-pokemon.gif" width="50">
+- 🗡️ Crystallizing Fuzzy Logic Skills.                      <img src="https://github.com/some1zealeous/some1zealeous/blob/main/assets/pikachu-pokemon.gif" style="float: right; height: 200px; margin-left: 20px;"> width="50">
 - 🌱 I’m currently learning Github features.
 - 🤔 I’m looking for help with Analytical and Logic building up skill.
 
