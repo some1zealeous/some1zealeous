@@ -1,5 +1,4 @@
-### Hey, It's MD KAIF ![](https://github.com/some1zealeous/some1zealeous/blob/main/assets/pikachu-pokemon.gif)
-
+### Hey, It's MD KAIF <img src="https://github.com/some1zealeous/some1zealeous/blob/main/assets/pikachu-pokemon.gif" width="25">
 <!--
 **some1zealeous/some1zealeous** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
