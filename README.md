@@ -4,7 +4,7 @@
 
 ## ⚡ Fun fact:
 
-- 🔭 Have curiosity in Astronomy.
+- 🔭 snoozing
 
 
 
